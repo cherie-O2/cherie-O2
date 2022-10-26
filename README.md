@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cherie-O2
 - 👀 I’m interested in Database & Python
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Python and simple daily automation which makes you productive.
+- 💞️ I’m looking to collaborate on Python and simplify daily automation which makes you productive.
 - 📫 How to reach me ...
 
 <!---
